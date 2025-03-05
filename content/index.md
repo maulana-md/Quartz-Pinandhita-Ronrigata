@@ -35,10 +35,11 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.04 Touhikou]]
 - [[22.05 Oshioki no Jikan]]
 - [[22.06 Rakukaki Vol. 11]]
-- [[22.07 Mika to H Suru Hon]]
-- [[22.08 Himitsu no Kinshin Sex Daisuki Kyoudai]]
-- [[22.09 Futari wa Kanbi na Yoru no Hihou]]
-- [[22.10 Seinaru Sono ni wa Bonyuu ga Saku]]
+- [[22.07 Mika to H Suru Hon]] - *commission*
+- [[22.08 Himitsu no Kinshin Sex Daisuki Kyoudai]] - *commission*
+- [[22.09 Futari wa Kanbi na Yoru no Hihou]] - *commission*
+- [[22.10 Seinaru Sono ni wa Bonyuu ga Saku]] - *commission*
+- [[22.11 Koibito Gokko]]
 
 ## Social Media
 
