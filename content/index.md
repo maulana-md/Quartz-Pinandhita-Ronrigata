@@ -40,7 +40,14 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.09 Futari wa Kanbi na Yoru no Hihou]] - *commission*
 - [[22.10 Seinaru Sono ni wa Bonyuu ga Saku]] - *commission*
 - [[22.11 Koibito Gokko]]
+- [[22.12 Misono Kousoku]] - *commission*
 
+## To be added
+
+- Scanlation Guides (for internal and public use)
+	- Mainly image editing
+- Indonesian articles about translation
+- Commission guidelines for other translation products
 ## Social Media
 
 - [Facebook](https://www.facebook.com/pinandhita.ronrigata/)
