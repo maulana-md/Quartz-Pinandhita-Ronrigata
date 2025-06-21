@@ -7,9 +7,7 @@ title: Pinandhita 論理型
 
 # Commission Status
 
-~~We're open for commission! Check ***Commission Guide*** below for details. Send us email at p.ronrigata@gmail.com to commission a translation.~~
-
-Commission are currently closed, but we're reopening soon after sorting stuffs out!
+We're open for commission! Check ***Commission Guide*** below for details. Send us email at p.ronrigata@gmail.com to commission a translation.
 
 # Welcome!
 
@@ -45,6 +43,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.12 Misono Kousoku]] - *commission*
 - [[22.13 Ryou Suisei CGs]] - *commission*
 - [[22.14 Ichi Oshi Sex! -Hoshimachi Suisei Hen-]] - *commission*
+- [[22.15 DROWN IN IT]] - *commission*
 
 ## To be added
 
