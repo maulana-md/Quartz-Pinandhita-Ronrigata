@@ -44,6 +44,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.13 Ryou Suisei CGs]] - *commission*
 - [[22.14 Ichi Oshi Sex! -Hoshimachi Suisei Hen-]] - *commission*
 - [[22.15 DROWN IN IT]] - *commission*
+- [[22.16 Misono Houshi]] - *commission*
 
 ## To be added
 
