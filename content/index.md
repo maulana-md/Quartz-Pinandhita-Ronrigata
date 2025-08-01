@@ -15,7 +15,7 @@ We're a freelance translation circle for Japanese-English-Indonesian language th
 
 This website serve as a home for our activities, including commission details and releases. If you want to make a commission to us, check [[index#Commission Guides]] to see the details.
 
-Alternatively, you can support our translation effort via Ko-fi instead, which is available [here](https://ko-fi.com/pronrigata).
+~~Alternatively, you can support our translation effort via Ko-fi instead, which is available [here](https://ko-fi.com/pronrigata).~~
 
 ## Page Index
 
@@ -45,6 +45,7 @@ Alternatively, you can support our translation effort via Ko-fi instead, which i
 - [[22.14 Ichi Oshi Sex! -Hoshimachi Suisei Hen-]] - *commission*
 - [[22.15 DROWN IN IT]] - *commission*
 - [[22.16 Misono Houshi]] - *commission*
+- [[22.17 Houkago no Tokubetsu Hoshuu]] - *commission*
 
 ## To be added
 
