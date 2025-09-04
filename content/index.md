@@ -46,6 +46,7 @@ This website serve as a home for our activities, including commission details an
 - [[22.15 DROWN IN IT]] - *commission*
 - [[22.16 Misono Houshi]] - *commission*
 - [[22.17 Houkago no Tokubetsu Hoshuu]] - *commission*
+- [[22.18 Misono Suiyu]] - *commission*
 
 ## To be added
 
@@ -54,6 +55,7 @@ This website serve as a home for our activities, including commission details an
 	- Translating (will be based on Mona Baker's book)
 - Indonesian articles about translation
 - Commission guidelines for other translation products
+- Sponsoring and/or donation pages, and what translation you can donate for
 
 ## Social Media
 
