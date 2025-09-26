@@ -45,6 +45,8 @@ This website serve as a home for our activities, including commission details an
 - [[22.16 Misono Houshi]] - *commission*
 - [[22.17 Houkago no Tokubetsu Hoshuu]] - *commission*
 - [[22.18 Misono Suiyu]] - *commission*
+- [[22.19 Ima to Mirai to Zutto Aishiteru Anata]] - *commission*
+- [[22.20 Melty Sugar Drop 2]]
 
 Related:
 
