@@ -19,12 +19,10 @@ This website serve as a home for our activities, including commission details an
 
 ## Page Index
 
-### Commission Guides
+### Ways to Support Us
 
-- [[10.01 What We Offers|What We Offers]] - Our products that are available to commission.
-- [[10.02 Commission Guidelines|Commission Guidelines]] - What we can do per products of commission. - *updated with new examples and explanation!*
-- [[10.03 Pricing and Duration|Pricing and Duration]] - Pricing details.
-- [[10.04 Contacts and Payment Methods|Payment and Contacts]] - Where to contact us for commission - or just asking around! - and how to pay.
+- [[commission|Commission us a translation!]]
+- [[donate|Donate to us for some perks!]]
 
 ### Releases
 
@@ -48,6 +46,10 @@ This website serve as a home for our activities, including commission details an
 - [[22.17 Houkago no Tokubetsu Hoshuu]] - *commission*
 - [[22.18 Misono Suiyu]] - *commission*
 
+Related:
+
+- [[backlog|Translation Backlog]]
+
 ## To be added
 
 - Scanlation Guides (for internal and public use)
@@ -55,10 +57,20 @@ This website serve as a home for our activities, including commission details an
 	- Translating (will be based on Mona Baker's book)
 - Indonesian articles about translation
 - Commission guidelines for other translation products
-- Sponsoring and/or donation pages, and what translation you can donate for
+- [x] Sponsoring and/or donation pages, and what translation you can donate for
 
 ## Social Media
 
 - [Facebook](https://www.facebook.com/pinandhita.ronrigata/)
 - [Twitter/X](https://twitter.com/p_ronrigata) - Inactive
 - [Discord Server invite link](https://discord.gg/SCCQDAx7h8)
+
+## Notes
+
+Some pages are currently being re-/worked on.
+
+> [!list]- Tracker - click to expand
+> - [ ] Home - this page!
+> - [x] [[commission]]
+> 	- [ ] children pages from 10.01 to 10.04
+> - [ ] [[donate]]
