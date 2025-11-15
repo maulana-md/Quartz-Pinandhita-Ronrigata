@@ -2,7 +2,7 @@
 title: Pinandhita 論理型
 ---
 <p align="center"> <a>
-<img src="https://pinandhitaronrigata.my.id/00-Meta/02-Attachments/logo-v2.png" width="300"/>
+<img src="https://pinandhitaronrigata.my.id/attach/logo-v2.png" width="300"/>
 </a> </p>
 
 # Commission Status
