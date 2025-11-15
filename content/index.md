@@ -15,8 +15,6 @@ We're a freelance translation circle for Japanese-English-Indonesian language th
 
 This website serve as a home for our activities, including commission details and releases. If you want to make a commission to us, check [[index#Commission Guides]] to see the details.
 
-~~Alternatively, you can support our translation effort via Ko-fi instead, which is available [here](https://ko-fi.com/pronrigata).~~
-
 ## Page Index
 
 ### Ways to Support Us
@@ -47,6 +45,7 @@ This website serve as a home for our activities, including commission details an
 - [[22.18 Misono Suiyu]] - *commission*
 - [[22.19 Ima to Mirai to Zutto Aishiteru Anata]] - *commission*
 - [[22.20 Melty Sugar Drop 2]]
+- [[22.21 Suki na Ko ga Iru no ni Mahou Shoujo ni Okasareteimasu]]
 
 Related:
 
