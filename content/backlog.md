@@ -7,11 +7,16 @@ This list is meant to be a heads up on what we're working and going to work on, 
 
 Gacha/raffle will be done on artist-basis, and then their books if there're multiple of them. If it is a series or related with other book, the earliest one will be picked by default.
 
+25/12/23 edit: On January '26 what will happen likely is the whole backlog will be put to a randomizer, and the top 3-5/whatever will be polled on our discord server. You're welcome to join us if you want to help decide what we'll translate next!
+
 ## Working
 
-- Fujimoto Setsuna - Sakurafubuki Mau Koro Jou - [[2025-nov-raffle.png|raffle screenshot]] - for November
 - Galvalume Kouhan - Rinjin no Seiso na Onee-chan JK wa Boku o Dekiai suru Dosukebe Succubus deshita - [link](https://exhentai.org/g/3390063/c4ef6dba3b/) - *Indonesian translation since English translation popped up a few days after TL started, **will be released as bonus outside of 1/month limit***
 - Nazunaya Honpo (7zu7) - Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko 2 - *commission* - [link](https://exhentai.org/g/3246712/9a73f0c3e4/)
+- Digianko (Ankoman) - Saoyaku Yamato Takeru ga Onna Eirei-tachi to Ecchi Shimakuru Hon - *commission* - [link](https://exhentai.org/g/3613618/00ad967736)
+	- Note: dialogues from some parts that's already translated will be grafted. will make proper crediting when the time comes.
+- Satsumaimo Batake (Nekko) - Sirius, Futari 227-gou Tokubetsu Class Hen Joukan - *commission* - [link](https://exhentai.org/g/2782161/7207850b7f)
+- Studio Washitsu (Fujimoto Setsuna) - Sakurafubuki Mau Koro Ge - *from backlog*
 
 ## Backlog
 
@@ -32,7 +37,7 @@ Gacha/raffle will be done on artist-basis, and then their books if there're mult
 	- Imouto ga Netori Play o Sasete kuru - [link](https://exhentai.org/g/3511422/a93d19172a/)
 	- Itsuwari no Musume - [link](https://exhentai.org/g/3194869/5577061b62/)
 - Fujimoto Setsuna's ArdanxChiyono duology - *SFW*
-	- Sakurafubuki Mau Koro Jou - [link](https://exhentai.org/g/3531807/350235d494/)
+	- [x] Sakurafubuki Mau Koro Jou - [link](https://exhentai.org/g/3531807/350235d494/)
 	- Sakurafubuki Mau Koro Ge - [link](https://exhentai.org/g/3531808/546bf807b7/)
 - Carbonara (Madoroshi) - Anata Dake no - [link](https://exhentai.org/g/3195906/cbe6247164/) - Mari (Idol)
 - Naminori Navy (ebinavy) - Mari Shokusu Ochi - Mari + tentacles
