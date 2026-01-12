@@ -9,6 +9,9 @@ title: Pinandhita 論理型
 
 We're open for commission! Check ***Commission Guide*** below for details. Send us email at p.ronrigata@gmail.com to commission a translation.
 
+> [!info] Promo!
+> We are having 20% discount on translation for C107 books! This offer is available until the end of February 2026.
+
 # Welcome!
 
 We're a freelance translation circle for Japanese-English-Indonesian language that specialize in ACG-related works. We're not really bound by a certain fandom, but right now we're just doing [[10.01 What We Offers#What is a doujinshi, you ask?|doujinshi]] from series/fandom our members are interested in.
@@ -47,6 +50,7 @@ This website serve as a home for our activities, including commission details an
 - [[22.20 Melty Sugar Drop 2]]
 - [[22.21 Suki na Ko ga Iru no ni Mahou Shoujo ni Okasareteimasu]]
 - [[22.22 Sakurafubuki Mau Koro Jou]] - *new!*
+- [[22.23 Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko 2]]
 
 Related:
 
