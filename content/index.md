@@ -49,17 +49,18 @@ This website serve as a home for our activities, including commission details an
 - [[22.19 Ima to Mirai to Zutto Aishiteru Anata]] - *commission*
 - [[22.20 Melty Sugar Drop 2]]
 - [[22.21 Suki na Ko ga Iru no ni Mahou Shoujo ni Okasareteimasu]]
-- [[22.22 Sakurafubuki Mau Koro Jou]] - *new!*
+- [[22.22 Sakurafubuki Mau Koro Jou]]
 - [[22.23 Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko 2]]
+- [[22.24 Sirius, Futari 227-gou Tokubetsu Class Hen Joukan]] - *new!*
 
 Related:
 
-- [[backlog|Translation Backlog]] - *added new mechanism for deciding what we'll be working on in the future*
+- [[backlog|Translation Backlog]] - *added new mechanism for deciding what we'll be working on in the future - to be edited again in february*
 
 ## To be added
 
 - Scanlation Guides (for internal and public use)
-	- Image editing
+	- [/] Image editing
 	- Translating (will be based on Mona Baker's book)
 - Indonesian articles about translation
 - Commission guidelines for other translation products

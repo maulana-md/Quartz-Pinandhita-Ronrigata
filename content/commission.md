@@ -48,25 +48,28 @@ Read in detail: [[10.03 Pricing and Duration]]
 
 ### Pricing
 
+> [!notice]
+> We've update our Indonesian rate, this applies as this page is up.
+
 As mentioned before, pricing are based on how much texts and editing is needed per page, and counted as low and high. Low pricing will be represented by value 1, and high pricing will be value 2. So, there will be three possible rate per page: 1+1, 2+1 (or 1+2, same thing), and 2+2.
 
 We also divided our pricing into Global rate, which uses USD, and Indonesian/local, which uses IDR. This is mainly to cater to our local market, since Indonesian Rupiah purchasing power is a lot lower than US Dollar.
 
 Details for the value would be:
 
-- Value 1 is $0.75 for global rates and Rp 5.000 for Indonesian rates, and
-- Value 2 is $1 for global rates and Rp 7.500 for Indonesian rates.
+- Value 1 is $0.75 for global rates and Rp 6.000 for Indonesian rates, and
+- Value 2 is $1 for global rates and Rp 9.000 for Indonesian rates.
 
 Calculating rate for one page would be something like this:
 
-|                     | Low text amount   | High Text amount   |
-| ------------------- | ----------------- | ------------------ |
-| Low editing amount  | $1.5 or Rp 10.000 | $1.75 or Rp 12.500 |
-| High editing amount | 1.75 or Rp 12.500 | $2 or Rp 15.000    | 
+|                     | Low text amount    | High Text amount   |
+| ------------------- | ------------------ | ------------------ |
+| Low editing amount  | $1.5 or Rp 12.000  | $1.75 or Rp 15.000 |
+| High editing amount | $1.75 or Rp 15.000 | $2 or Rp 18.000    | 
 
 ### Duration
 
-It generally takes us 1-3 months for us to work on a doujinshi or gallery, and shorter ones are usually done faster. Do note that the longer the doujinshi, the longer it will take us to work on it. We'll give updates every now and then if you like, but please refrain from asking for updates repeatedly, since it's inconveniencing everyone including yourself; it pushes us to work rushingly, and you probably won't be satisfied with what you'll hear anyway.
+It generally takes us 1-3 months for us to work on a doujinshi or gallery, and shorter ones are usually done faster. Do note that the longer the doujinshi, the longer it will take us to work on it. We'll give updates every now and then if you like, but please refrain from asking for updates repeatedly, since it's inconveniencing everyone including yourself; it pushes us to rush our work, and you probably won't be satisfied with what you'll hear anyway.
 
 ## Contacts and Payment Methods
 
@@ -84,7 +87,7 @@ I very rarely log in into e-h forum, so please don't contact me there since ther
 
 ### Payment Methods
 
-We're accepting 50-50 payments (half when the deal is made, and other half after the translation is finished) or upfront. In all honesty, paying upfront would be better, since if there's any processor cuts, it will only be taken once, but also it would be easier for you as the client as you only need to have one transaction rather than multiple (also saves the hassle of us asking the payment at the end). But if you have other reasons (no need to tell us, it's on you!), we're able to make do with 50-50.
+We're accepting 50-50 payments (half when the deal is made, and other half after the translation is finished) or upfront. In all honesty, paying upfront would be better, since if there's any processor cuts, it will only be taken once, but also it would be easier for you as the client as you only need to have one transaction rather than multiple (also saves the hassle of us asking the payment at the end). But if you have other reasons (no need to tell us the details!), we're able to make do with 50-50.
 
 For those living outside of Indonesia, payment could be done through Paypal. We'll send you invoice or money request after the deal is made and we have received your Paypal account details.
 
