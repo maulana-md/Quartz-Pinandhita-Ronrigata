@@ -50,8 +50,10 @@ This website serve as a home for our activities, including commission details an
 - [[22.20 Melty Sugar Drop 2]]
 - [[22.21 Suki na Ko ga Iru no ni Mahou Shoujo ni Okasareteimasu]]
 - [[22.22 Sakurafubuki Mau Koro Jou]]
-- [[22.23 Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko 2]]
-- [[22.24 Sirius, Futari 227-gou Tokubetsu Class Hen Joukan]] - *new!*
+- [[22.23 Mechakucha Jiraippoi kedo Ne wa Yasashisouna Ko 2]] - *commission*
+- [[22.24 Sirius, Futari 227-gou Tokubetsu Class Hen Joukan]] - *commission*
+- [[22.25 Saoyaku Yamato Takeru ga Onna Eirei-tachi to Ecchi Shimakuru Hon]] - *commission* - ***new!***
+- [[22.26 Aimai Identity]] - ***new!***
 
 Related:
 
