@@ -7,7 +7,9 @@ title: Pinandhita 論理型
 
 # Commission Status
 
-We're open for commission! Check ***Commission Guide*** below for details. Send us email at p.ronrigata@gmail.com to commission a translation.
+~~We're open for commission! Check ***Commission Guide*** below for details. Send us email at p.ronrigata@gmail.com to commission a translation.~~
+
+Commission is closed until all of our backlog (the one on our discord) is cleared.
 
 > [!info] Promo!
 > We are having 20% discount on translation for C107 books! This offer is available until the end of February 2026.
@@ -54,6 +56,7 @@ This website serve as a home for our activities, including commission details an
 - [[22.24 Sirius, Futari 227-gou Tokubetsu Class Hen Joukan]] - *commission*
 - [[22.25 Saoyaku Yamato Takeru ga Onna Eirei-tachi to Ecchi Shimakuru Hon]] - *commission* - ***new!***
 - [[22.26 Aimai Identity]] - ***new!***
+- [[22.27 Toriko no Hito]] - *commission* - ***new!***
 
 Related:
 
